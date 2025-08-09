@@ -67,7 +67,7 @@
 
 #### **PDF**
 
-<a href="/resume.pdf" download="Мое_Резюме_Муллакаев_Наиль.pdf">Скачать резюме</a>
+<a href="resume.pdf" download="Мое_Резюме_Муллакаев_Наиль.pdf">Скачать резюме</a>
 <!-- tabs:end -->
 
 ## Обо мне
@@ -162,6 +162,6 @@ https://stepik.org/cert/2190734
 
 ## PDF
 
-<a href="/resume.pdf" download="Мое_Резюме_Муллакаев_Наиль.pdf">Скачать резюме</a>
+<a href="resume.pdf" download="Мое_Резюме_Муллакаев_Наиль.pdf">Скачать резюме</a>
 
 

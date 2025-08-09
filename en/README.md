@@ -62,6 +62,10 @@ Project 2: [docsify | We make a site from the usual text]
 * [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com)
 * [https://github.com/mullakaev](https://github.com/mullakaev)
 * [https://gitlab.com/mullakaev](https://gitlab.com/mullakaev)
+
+#### **PDF**
+
+<a href="resume.pdf" download="My resume is Mullakaev Nail.pdf">Download resume</a>
 <!-- tabs:end -->
 
 ## About me
@@ -127,4 +131,8 @@ docsify | We make a site from the usual text
 * [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com)
 * [https://github.com/mullakaev](https://github.com/mullakaev)
 * [https://gitlab.com/mullakaev](https://gitlab.com/mullakaev)
+
+## PDF
+
+<a href="resume.pdf" download="My resume is Mullakaev Nail.pdf">Download resume</a>
 
