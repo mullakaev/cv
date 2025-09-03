@@ -46,6 +46,7 @@
 #### **Дополнительное образование**
 
 > Сертификаты Stepik
+* [Введение в Linux](https://stepik.org/cert/2948530)
 * [Docsify | Делаем сайт из обычного текста](https://stepik.org/cert/2928132)
 * [Инди-курс по HTML и CSS](https://stepik.org/cert/2926316)
 * [Марафон данных: первое знакомство с SQL и Python](https://stepik.org/cert/2922209)
@@ -118,6 +119,8 @@ Docsify | Проект Моя Визитка 1.0
 ## Дополнительное образование
 
 > Сертификаты Stepik
+* [Введение в Linux](https://stepik.org/cert/2948530)
+https://stepik.org/cert/2948530
 
 * [Docsify | Делаем сайт из обычного текста](https://stepik.org/cert/2928132)
 https://stepik.org/cert/2928132
