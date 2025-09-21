@@ -46,6 +46,7 @@
 #### **Дополнительное образование**
 
 > Сертификаты Stepik
+* [SQL Start](https://stepik.org/cert/2964507)
 * [Технологии виртуальной реальности](https://stepik.org/cert/2951000)
 * [Введение в Linux](https://stepik.org/cert/2948530)
 * [Docsify | Делаем сайт из обычного текста](https://stepik.org/cert/2928132)
@@ -120,6 +121,9 @@ Docsify | Проект Моя Визитка 1.0
 ## Дополнительное образование
 
 > Сертификаты Stepik
+* [SQL Start](https://stepik.org/cert/2964507)
+https://stepik.org/cert/2964507
+
 * [Технологии виртуальной реальности](https://stepik.org/cert/2951000)
 https://stepik.org/cert/2951000
 
