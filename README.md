@@ -110,6 +110,7 @@ Docsify | Проект Моя Визитка 1.0
 *   Используемые технологии: 
     1.   *Фронтенд:* HTML, CSS, JavaScript, Markdown
 *   [Ссылка на GitHub](https://github.com/mullakaev/cv)
+https://mullakaev.github.io/cv/#/
 *   ![фото_2](/resources/assets/02.png ':size=30%')
 
 ## Высшее бразование
