@@ -46,6 +46,7 @@
 #### **Дополнительное образование**
 
 > Сертификаты Stepik
+* [Машинное обучение](https://stepik.org/cert/2973133)
 * [Приложения и сервисы для учителя](https://stepik.org/cert/2969710)
 * [SQL Start](https://stepik.org/cert/2964507)
 * [Технологии виртуальной реальности](https://stepik.org/cert/2951000)
@@ -129,6 +130,9 @@ https://mullakaev.github.io/cv/#/
 ## Дополнительное образование
 
 > Сертификаты Stepik
+* [Машинное обучение](https://stepik.org/cert/2973133)
+https://stepik.org/cert/2973133
+
 * [Приложения и сервисы для учителя](https://stepik.org/cert/2969710)
 https://stepik.org/cert/2969710
 
