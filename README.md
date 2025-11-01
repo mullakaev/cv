@@ -46,6 +46,7 @@
 #### **Дополнительное образование**
 
 > Сертификаты Stepik
+* [Git + GitHub. Полный курс](https://stepik.org/cert/3011381)
 * [Машинное обучение](https://stepik.org/cert/2973133)
 * [Приложения и сервисы для учителя](https://stepik.org/cert/2969710)
 * [SQL Start](https://stepik.org/cert/2964507)
@@ -130,6 +131,9 @@ https://mullakaev.github.io/cv/#/
 ## Дополнительное образование
 
 > Сертификаты Stepik
+* [Git + GitHub. Полный курс](https://stepik.org/cert/3011381)
+https://stepik.org/cert/3011381
+
 * [Машинное обучение](https://stepik.org/cert/2973133)
 https://stepik.org/cert/2973133
 
