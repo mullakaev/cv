@@ -132,38 +132,22 @@ https://mullakaev.github.io/cv/#/
 
 > Сертификаты Stepik
 * [Git + GitHub. Полный курс](https://stepik.org/cert/3011381) https://stepik.org/cert/3011381
-
 * [Машинное обучение](https://stepik.org/cert/2973133) https://stepik.org/cert/2973133
-
 * [Приложения и сервисы для учителя](https://stepik.org/cert/2969710) https://stepik.org/cert/2969710
-
 * [SQL Start](https://stepik.org/cert/2964507)
 https://stepik.org/cert/2964507
-
 * [Технологии виртуальной реальности](https://stepik.org/cert/2951000) https://stepik.org/cert/2951000
-
 * [Введение в Linux](https://stepik.org/cert/2948530) https://stepik.org/cert/2948530
-
 * [Docsify | Делаем сайт из обычного текста](https://stepik.org/cert/2928132) https://stepik.org/cert/2928132
-
 * [Инди-курс по HTML и CSS](https://stepik.org/cert/2926316)https://stepik.org/cert/2926316
-
-* [Марафон данных: первое знакомство с SQL и Python](https://stepik.org/cert/2922209)https://stepik.org/cert/2922209
-
+* [Марафон данных: первое знакомство с SQL и Python](https://stepik.org/cert/2922209) https://stepik.org/cert/2922209
 * [Безопасность в интернете](https://stepik.org/cert/2915607) https://stepik.org/cert/2915607
-
 * [Основы теории информации](https://stepik.org/cert/2907800) https://stepik.org/cert/2907800
-
 * [Основы строительного проектирования FREE](https://stepik.org/cert/2890456) https://stepik.org/cert/2890456
-
 * [Все о криптовалютах (BTC, ETH, DOGE, NFT)](https://stepik.org/cert/2890316) https://stepik.org/cert/2890316
-
 * [Добрый, добрый Python с Сергеем Балакиревым](https://stepik.org/cert/2878697) https://stepik.org/cert/2878697
-
 * ["Поколение Python": курс для продвинутых](https://stepik.org/cert/2793177) https://stepik.org/cert/2793177
-
 * ["Поколение Python": курс для начинающих](https://stepik.org/cert/2608952) https://stepik.org/cert/2608952
-
 * [Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/cert/2190734) https://stepik.org/cert/2190734
 
 
