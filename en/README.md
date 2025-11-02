@@ -119,23 +119,23 @@ docsify | We make a site from the usual text
 
 ## Additional education
 
-* [Git + GitHub. Full course](https://stepik.org/cert/3011381)
-* [Machine learning](https://stepik.org/cert/2973133)
-* [Applications and services for teachers](https://stepik.org/cert/2969710)
-* [SQL Start](https://stepik.org/cert/2964507)
-* [Virtual reality technologies](https://stepik.org/cert/2951000)
-* [Introduction to Linux](https://stepik.org/cert/2948530)
-* [Docsify | We make a site from the usual text](https://stepik.org/cert/2928132)
-* [Indie course by html and css](https://stepik.org/cert/2926316)
-* [Data marathon: first acquaintance with SQL and Python](https://stepik.org/cert/2922209)
-* [Security on the Internet](https://stepik.org/cert/2915607)
-* [Fundamentals of the theory of information](https://stepik.org/cert/2907800)
-* [Fundamentals of construction design Free](https://stepik.org/cert/2890456)
-* [All about cryptocurrencies (BTC, ETH, DOGE, NFT)](https://stepik.org/cert/2890316)
-* [Good, kind Python with Sergey Balakirev](https://stepik.org/cert/2878697)
-* ["Generation Python": Course for advanced](https://stepik.org/cert/2793177)
-* ["Generation Python": course for beginners](https://stepik.org/cert/2608952)
-* [Introduction to the architecture of computers. Elements of operating systems.](https://stepik.org/cert/2190734)
+* [Git + GitHub. Full course](https://stepik.org/cert/3011381) https://stepik.org/cert/3011381
+* [Machine learning](https://stepik.org/cert/2973133) https://stepik.org/cert/2973133
+* [Applications and services for teachers](https://stepik.org/cert/2969710) https://stepik.org/cert/2969710
+* [SQL Start](https://stepik.org/cert/2964507) https://stepik.org/cert/2964507
+* [Virtual reality technologies](https://stepik.org/cert/2951000) https://stepik.org/cert/2951000
+* [Introduction to Linux](https://stepik.org/cert/2948530) https://stepik.org/cert/2948530
+* [Docsify | We make a site from the usual text](https://stepik.org/cert/2928132) https://stepik.org/cert/2928132
+* [Indie course by html and css](https://stepik.org/cert/2926316) https://stepik.org/cert/2926316
+* [Data marathon: first acquaintance with SQL and Python](https://stepik.org/cert/2922209) https://stepik.org/cert/2922209
+* [Security on the Internet](https://stepik.org/cert/2915607) https://stepik.org/cert/2915607
+* [Fundamentals of the theory of information](https://stepik.org/cert/2907800) https://stepik.org/cert/2907800
+* [Fundamentals of construction design Free](https://stepik.org/cert/2890456) https://stepik.org/cert/2890456
+* [All about cryptocurrencies (BTC, ETH, DOGE, NFT)](https://stepik.org/cert/2890316) https://stepik.org/cert/2890316
+* [Good, kind Python with Sergey Balakirev](https://stepik.org/cert/2878697) https://stepik.org/cert/2878697
+* ["Generation Python": Course for advanced](https://stepik.org/cert/2793177) https://stepik.org/cert/2793177
+* ["Generation Python": course for beginners](https://stepik.org/cert/2608952) https://stepik.org/cert/2608952
+* [Introduction to the architecture of computers. Elements of operating systems.](https://stepik.org/cert/2190734) https://stepik.org/cert/2190734
 
 ## Contacts
 
