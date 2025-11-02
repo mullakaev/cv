@@ -44,6 +44,12 @@ Project 2: [docsify | We make a site from the usual text]
 
 #### **Additional education**
 
+* [Git + GitHub. Full course](https://stepik.org/cert/3011381)
+* [Machine learning](https://stepik.org/cert/2973133)
+* [Applications and services for teachers](https://stepik.org/cert/2969710)
+* [SQL Start](https://stepik.org/cert/2964507)
+* [Virtual reality technologies](https://stepik.org/cert/2951000)
+* [Introduction to Linux](https://stepik.org/cert/2948530)
 * [Docsify | We make a site from the usual text](https://stepik.org/cert/2928132)
 * [Indie course by html and css](https://stepik.org/cert/2926316)
 * [Data marathon: first acquaintance with SQL and Python](https://stepik.org/cert/2922209)
@@ -65,7 +71,7 @@ Project 2: [docsify | We make a site from the usual text]
 
 #### **PDF**
 
-<a href="resume.pdf" download="My resume is Mullakaev Nail.pdf">Download resume</a>
+<a href="/en/resume_en.pdf" download="My resume is Mullakaev Nail.pdf">Download resume</a>
 <!-- tabs:end -->
 
 ## About me
@@ -113,6 +119,12 @@ docsify | We make a site from the usual text
 
 ## Additional education
 
+* [Git + GitHub. Full course](https://stepik.org/cert/3011381)
+* [Machine learning](https://stepik.org/cert/2973133)
+* [Applications and services for teachers](https://stepik.org/cert/2969710)
+* [SQL Start](https://stepik.org/cert/2964507)
+* [Virtual reality technologies](https://stepik.org/cert/2951000)
+* [Introduction to Linux](https://stepik.org/cert/2948530)
 * [Docsify | We make a site from the usual text](https://stepik.org/cert/2928132)
 * [Indie course by html and css](https://stepik.org/cert/2926316)
 * [Data marathon: first acquaintance with SQL and Python](https://stepik.org/cert/2922209)
@@ -134,5 +146,5 @@ docsify | We make a site from the usual text
 
 ## PDF
 
-<a href="resume.pdf" download="My resume is Mullakaev Nail.pdf">Download resume</a>
+<a href="/en/resume_en.pdf" download="My resume is Mullakaev Nail.pdf">Download resume</a>
 
