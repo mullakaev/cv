@@ -72,6 +72,7 @@ Project 2: [docsify | We make a site from the usual text]
 #### **PDF**
 
 <a href="/en/resume_en.pdf" download="My resume is Mullakaev Nail.pdf">Download resume</a>
+https://mullakaev.github.io/cv/en/resume_en.pdf
 <!-- tabs:end -->
 
 ## About me
@@ -147,4 +148,5 @@ docsify | We make a site from the usual text
 ## PDF
 
 <a href="/en/resume_en.pdf" download="My resume is Mullakaev Nail.pdf">Download resume</a>
+https://mullakaev.github.io/cv/en/resume_en.pdf
 
