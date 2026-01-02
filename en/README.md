@@ -44,6 +44,10 @@ Project 2: [docsify | We make a site from the usual text]
 
 #### **Additional education**
 
+* [LPI Linux Essentials 010-160 Certification Exam Practice](https://stepik.org/cert/3080935)
+* [Program. Linux: from scratch to certificate](https://stepik.org/cert/3080700)
+* [Russian certification exam LPI Linux Essentials 010-160](https://stepik.org/cert/3072059)
+* [Linux terminal. Working on the command line](https://stepik.org/cert/3045788)
 * [Git + GitHub. Full course](https://stepik.org/cert/3011381)
 * [Machine learning](https://stepik.org/cert/2973133)
 * [Applications and services for teachers](https://stepik.org/cert/2969710)
@@ -120,6 +124,10 @@ docsify | We make a site from the usual text
 
 ## Additional education
 
+* [LPI Linux Essentials 010-160 Certification Exam Practice](https://stepik.org/cert/3080935) https://stepik.org/cert/3080935
+* [Program. Linux: from scratch to certificate](https://stepik.org/cert/3080700) https://stepik.org/cert/3080700
+* [Russian certification exam LPI Linux Essentials 010-160](https://stepik.org/cert/3072059) https://stepik.org/cert/3072059
+* [Linux terminal. Working on the command line](https://stepik.org/cert/3045788) https://stepik.org/cert/3045788
 * [Git + GitHub. Full course](https://stepik.org/cert/3011381) https://stepik.org/cert/3011381
 * [Machine learning](https://stepik.org/cert/2973133) https://stepik.org/cert/2973133
 * [Applications and services for teachers](https://stepik.org/cert/2969710) https://stepik.org/cert/2969710
