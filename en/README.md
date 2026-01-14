@@ -44,6 +44,7 @@ Project 2: [docsify | We make a site from the usual text]
 
 #### **Additional education**
 
+* [Basic CTF Course](https://stepik.org/cert/3093601)
 * [LPI Linux Essentials 010-160 Certification Exam Practice](https://stepik.org/cert/3080935)
 * [Program. Linux: from scratch to certificate](https://stepik.org/cert/3080700)
 * [Russian certification exam LPI Linux Essentials 010-160](https://stepik.org/cert/3072059)
@@ -124,6 +125,7 @@ docsify | We make a site from the usual text
 
 ## Additional education
 
+* [Basic CTF Course](https://stepik.org/cert/3093601) https://stepik.org/cert/3093601
 * [LPI Linux Essentials 010-160 Certification Exam Practice](https://stepik.org/cert/3080935) https://stepik.org/cert/3080935
 * [Program. Linux: from scratch to certificate](https://stepik.org/cert/3080700) https://stepik.org/cert/3080700
 * [Russian certification exam LPI Linux Essentials 010-160](https://stepik.org/cert/3072059) https://stepik.org/cert/3072059

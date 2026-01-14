@@ -46,6 +46,7 @@
 #### **Дополнительное образование**
 
 > Сертификаты Stepik
+* [Базовый курс по CTF](https://stepik.org/cert/3093601)
 * [LPI Linux Essentials 010-160 Certification Exam Practice](https://stepik.org/cert/3080935)
 * [Программа. Linux: с нуля до сертификата](https://stepik.org/cert/3080700)
 * [Русский сертификационный экзамен LPI Linux Essentials 010-160](https://stepik.org/cert/3072059)
@@ -135,6 +136,7 @@ https://mullakaev.github.io/cv/#/
 ## Дополнительное образование
 
 > Сертификаты Stepik
+* [Базовый курс по CTF](https://stepik.org/cert/3093601) https://stepik.org/cert/3093601
 * [LPI Linux Essentials 010-160 Certification Exam Practice](https://stepik.org/cert/3080935) https://stepik.org/cert/3080935
 * [Программа. Linux: с нуля до сертификата](https://stepik.org/cert/3080700) https://stepik.org/cert/3080700
 * [Русский сертификационный экзамен LPI Linux Essentials 010-160](https://stepik.org/cert/3072059) https://stepik.org/cert/3072059
