@@ -46,6 +46,7 @@
 #### **Дополнительное образование**
 
 > Сертификаты Stepik
+* [Инженерия будущего](https://stepik.org/cert/3128718)
 * [Базовый курс по CTF](https://stepik.org/cert/3093601)
 * [LPI Linux Essentials 010-160 Certification Exam Practice](https://stepik.org/cert/3080935)
 * [Программа. Linux: с нуля до сертификата](https://stepik.org/cert/3080700)
@@ -136,6 +137,7 @@ https://mullakaev.github.io/cv/#/
 ## Дополнительное образование
 
 > Сертификаты Stepik
+* [Инженерия будущего](https://stepik.org/cert/3128718) https://stepik.org/cert/3128718
 * [Базовый курс по CTF](https://stepik.org/cert/3093601) https://stepik.org/cert/3093601
 * [LPI Linux Essentials 010-160 Certification Exam Practice](https://stepik.org/cert/3080935) https://stepik.org/cert/3080935
 * [Программа. Linux: с нуля до сертификата](https://stepik.org/cert/3080700) https://stepik.org/cert/3080700
