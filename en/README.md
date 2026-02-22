@@ -71,8 +71,9 @@ Project 2: [docsify | We make a site from the usual text]
 
 #### **Contacts**
 
-* [https://t.me/mu11akaevn](https://t.me/mu11akaevn) — The preferred communication method
-* [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com)
+* [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com) - <span style="color: blue;">My email</span>
+* [+7(927)7382562](tel:+79277382562) — <span style="color: green;">My phone</span>
+* [https://t.me/mu11akaevn](https://t.me/mu11akaevn) — Telegram
 * [https://github.com/mullakaev](https://github.com/mullakaev)
 * [https://gitlab.com/mullakaev](https://gitlab.com/mullakaev)
 
@@ -154,8 +155,9 @@ docsify | We make a site from the usual text
 
 ## Contacts
 
-* [https://t.me/mu11akaevn](https://t.me/mu11akaevn) — The preferred communication method
-* [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com)
+* [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com) - <span style="color: blue;">My email</span>
+* [+7(927)7382562](tel:+79277382562) — <span style="color: green;">My phone</span>
+* [https://t.me/mu11akaevn](https://t.me/mu11akaevn) — Telegram
 * [https://github.com/mullakaev](https://github.com/mullakaev)
 * [https://gitlab.com/mullakaev](https://gitlab.com/mullakaev)
 

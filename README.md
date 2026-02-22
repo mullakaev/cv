@@ -72,8 +72,9 @@
 
 #### **Контакты**
 
-* [https://t.me/mu11akaevn](https://t.me/mu11akaevn) — предпочитаемый способ связи
-* [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com)
+* [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com) - <span style="color: blue;">Моя почта</span>
+* [+7(927)7382562](tel:+79277382562) — <span style="color: green;">Мой телефон</span>
+* [https://t.me/mu11akaevn](https://t.me/mu11akaevn) — Telegram
 * [https://github.com/mullakaev](https://github.com/mullakaev)
 * [https://gitlab.com/mullakaev](https://gitlab.com/mullakaev)
 
@@ -165,8 +166,9 @@ https://stepik.org/cert/2964507
 
 ## Контакты
 
-* [https://t.me/mu11akaevn](https://t.me/mu11akaevn) — предпочитаемый способ связи
-* [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com)
+* [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com) - <span style="color: blue;">Моя почта</span>
+* [+7(927)7382562](tel:+79277382562) — <span style="color: green;">Мой телефон</span>
+* [https://t.me/mu11akaevn](https://t.me/mu11akaevn) — Telegram
 * [https://github.com/mullakaev](https://github.com/mullakaev)
 * [https://gitlab.com/mullakaev](https://gitlab.com/mullakaev)
 
