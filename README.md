@@ -46,6 +46,7 @@
 #### **Дополнительное образование**
 
 > Сертификаты Stepik
+* [Моделирование в Компас-3D для начинающих](https://stepik.org/cert/3145503)
 * [Инженерия будущего](https://stepik.org/cert/3128718)
 * [Базовый курс по CTF](https://stepik.org/cert/3093601)
 * [LPI Linux Essentials 010-160 Certification Exam Practice](https://stepik.org/cert/3080935)
@@ -138,6 +139,8 @@ https://mullakaev.github.io/cv/#/
 ## Дополнительное образование
 
 > Сертификаты Stepik
+
+* [Моделирование в Компас-3D для начинающих](https://stepik.org/cert/3145503) https://stepik.org/cert/3145503
 * [Инженерия будущего](https://stepik.org/cert/3128718) https://stepik.org/cert/3128718
 * [Базовый курс по CTF](https://stepik.org/cert/3093601) https://stepik.org/cert/3093601
 * [LPI Linux Essentials 010-160 Certification Exam Practice](https://stepik.org/cert/3080935) https://stepik.org/cert/3080935
