@@ -46,6 +46,7 @@ Project 2: [docsify | We make a site from the usual text]
 
 > Stepik Certificates
 
+* [Engineering graphics for machine builders](https://stepik.org/cert/3225863)
 * [Engineering graphics. ABC of an engineer](https://stepik.org/cert/3168015)
 * [Modeling in Compass-3D for beginners](https://stepik.org/cert/3145503)
 * [Engineering of the Future](https://stepik.org/cert/3128718)
@@ -133,6 +134,7 @@ docsify | We make a site from the usual text
 
 > Stepik Certificates
 
+* [Engineering graphics for machine builders](https://stepik.org/cert/3225863) https://stepik.org/cert/3225863
 * [Engineering graphics. ABC of an engineer](https://stepik.org/cert/3168015) https://stepik.org/cert/3168015
 * [Modeling in Compass-3D for beginners](https://stepik.org/cert/3145503) https://stepik.org/cert/3145503
 * [Engineering of the Future](https://stepik.org/cert/3128718) https://stepik.org/cert/3128718
