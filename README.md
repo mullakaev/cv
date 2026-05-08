@@ -47,6 +47,7 @@
 
 > Сертификаты Stepik
 
+* [Детали машин](https://stepik.org/cert/3232986)
 * [Инженерная графика для машиностроителя](https://stepik.org/cert/3225863)
 * [Инженерная графика. Азбука инженера](https://stepik.org/cert/3168015)
 * [Моделирование в Компас-3D для начинающих](https://stepik.org/cert/3145503)
@@ -143,6 +144,7 @@ https://mullakaev.github.io/cv/#/
 
 > Сертификаты Stepik
 
+* [Детали машин](https://stepik.org/cert/3232986) https://stepik.org/cert/3232986
 * [Инженерная графика для машиностроителя](https://stepik.org/cert/3225863) https://stepik.org/cert/3225863
 * [Инженерная графика. Азбука инженера](https://stepik.org/cert/3168015) https://stepik.org/cert/3168015
 * [Моделирование в Компас-3D для начинающих](https://stepik.org/cert/3145503) https://stepik.org/cert/3145503
