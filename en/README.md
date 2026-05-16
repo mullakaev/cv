@@ -46,6 +46,7 @@ Project 2: [docsify | We make a site from the usual text]
 
 > Stepik Certificates
 
+* [Fundamentals of mechanical engineering technology](https://stepik.org/cert/3243270) https://stepik.org/cert/3243270
 * [Machine parts](https://stepik.org/cert/3232986)
 * [Engineering graphics for machine builders](https://stepik.org/cert/3225863)
 * [Engineering graphics. ABC of an engineer](https://stepik.org/cert/3168015)
@@ -135,6 +136,7 @@ docsify | We make a site from the usual text
 
 > Stepik Certificates
 
+* [Fundamentals of mechanical engineering technology](https://stepik.org/cert/3243270) https://stepik.org/cert/3243270
 * [Machine parts](https://stepik.org/cert/3232986) https://stepik.org/cert/3232986
 * [Engineering graphics for machine builders](https://stepik.org/cert/3225863) https://stepik.org/cert/3225863
 * [Engineering graphics. ABC of an engineer](https://stepik.org/cert/3168015) https://stepik.org/cert/3168015
@@ -166,7 +168,6 @@ docsify | We make a site from the usual text
 ## Contacts
 
 * [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com) - <span style="color: blue;">My email</span>
-* [+7(927)7382562](tel:+79277382562) — <span style="color: green;">My phone</span>
 * [https://t.me/mu11akaevn](https://t.me/mu11akaevn) — Telegram
 * [https://github.com/mullakaev](https://github.com/mullakaev)
 * [https://gitlab.com/mullakaev](https://gitlab.com/mullakaev)

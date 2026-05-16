@@ -47,6 +47,7 @@
 
 > Сертификаты Stepik
 
+* [Основы технологии машиностроения](https://stepik.org/cert/3243270)
 * [Детали машин](https://stepik.org/cert/3232986)
 * [Инженерная графика для машиностроителя](https://stepik.org/cert/3225863)
 * [Инженерная графика. Азбука инженера](https://stepik.org/cert/3168015)
@@ -144,6 +145,7 @@ https://mullakaev.github.io/cv/#/
 
 > Сертификаты Stepik
 
+* [Основы технологии машиностроения](https://stepik.org/cert/3243270) https://stepik.org/cert/3243270
 * [Детали машин](https://stepik.org/cert/3232986) https://stepik.org/cert/3232986
 * [Инженерная графика для машиностроителя](https://stepik.org/cert/3225863) https://stepik.org/cert/3225863
 * [Инженерная графика. Азбука инженера](https://stepik.org/cert/3168015) https://stepik.org/cert/3168015
@@ -177,7 +179,6 @@ https://stepik.org/cert/2964507
 ## Контакты
 
 * [mullakaev+cv@gmail.com](mailto:mullakaev+cv@gmail.com) - <span style="color: blue;">Моя почта</span>
-* [+7(927)7382562](tel:+79277382562) — <span style="color: green;">Мой телефон</span>
 * [https://t.me/mu11akaevn](https://t.me/mu11akaevn) — Telegram
 * [https://github.com/mullakaev](https://github.com/mullakaev)
 * [https://gitlab.com/mullakaev](https://gitlab.com/mullakaev)
