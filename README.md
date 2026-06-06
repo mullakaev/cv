@@ -47,6 +47,7 @@
 
 > Сертификаты Stepik
 
+* [Markdown синтаксис](https://stepik.org/cert/3275574) 
 * [Основы технологии машиностроения](https://stepik.org/cert/3243270)
 * [Детали машин](https://stepik.org/cert/3232986)
 * [Инженерная графика для машиностроителя](https://stepik.org/cert/3225863)
@@ -145,6 +146,7 @@ https://mullakaev.github.io/cv/#/
 
 > Сертификаты Stepik
 
+* [Markdown синтаксис](https://stepik.org/cert/3275574) https://stepik.org/cert/3275574
 * [Основы технологии машиностроения](https://stepik.org/cert/3243270) https://stepik.org/cert/3243270
 * [Детали машин](https://stepik.org/cert/3232986) https://stepik.org/cert/3232986
 * [Инженерная графика для машиностроителя](https://stepik.org/cert/3225863) https://stepik.org/cert/3225863

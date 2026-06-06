@@ -46,6 +46,7 @@ Project 2: [docsify | We make a site from the usual text]
 
 > Stepik Certificates
 
+* [Markdown syntax](https://stepik.org/cert/3275574)
 * [Fundamentals of mechanical engineering technology](https://stepik.org/cert/3243270) https://stepik.org/cert/3243270
 * [Machine parts](https://stepik.org/cert/3232986)
 * [Engineering graphics for machine builders](https://stepik.org/cert/3225863)
@@ -136,6 +137,7 @@ docsify | We make a site from the usual text
 
 > Stepik Certificates
 
+* [Markdown syntax](https://stepik.org/cert/3275574) https://stepik.org/cert/3275574 
 * [Fundamentals of mechanical engineering technology](https://stepik.org/cert/3243270) https://stepik.org/cert/3243270
 * [Machine parts](https://stepik.org/cert/3232986) https://stepik.org/cert/3232986
 * [Engineering graphics for machine builders](https://stepik.org/cert/3225863) https://stepik.org/cert/3225863
