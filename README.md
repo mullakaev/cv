@@ -47,6 +47,7 @@
 
 > Сертификаты Stepik
 
+* [Платформа nanoCAD: лёгкий старт](https://stepik.org/cert/3293193)
 * [Markdown синтаксис](https://stepik.org/cert/3275574) 
 * [Основы технологии машиностроения](https://stepik.org/cert/3243270)
 * [Детали машин](https://stepik.org/cert/3232986)
@@ -146,6 +147,7 @@ https://mullakaev.github.io/cv/#/
 
 > Сертификаты Stepik
 
+* [Платформа nanoCAD: лёгкий старт](https://stepik.org/cert/3293193) https://stepik.org/cert/3293193
 * [Markdown синтаксис](https://stepik.org/cert/3275574) https://stepik.org/cert/3275574
 * [Основы технологии машиностроения](https://stepik.org/cert/3243270) https://stepik.org/cert/3243270
 * [Детали машин](https://stepik.org/cert/3232986) https://stepik.org/cert/3232986
